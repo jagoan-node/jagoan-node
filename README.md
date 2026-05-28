@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi 👋, I'm Zaqi (MUzaqi)
 
-<!--
-**jagoan-node/jagoan-node** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer & VPS tinkerer from Indonesia 🇮🇩
 
-Here are some ideas to get you started:
+**Focus:** Node.js · Linux · Self-hosting · Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Featured Project:** [TempMail](https://github.com/jagoan-node/tempmail) — Self-hosted temporary email service. Live at [mail.mynodes.dev](https://mail.mynodes.dev)
+
+🛠️ **Tech Stack:**
+`Node.js` `JavaScript` `Python` `HTML/CSS` `Kotlin` `Linux` `Nginx` `Cloudflare` `Telegram Bot API`
+
+📊 **GitHub Stats:**
+
+![Zaqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jagoan-node&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jagoan-node&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+🌐 [mynodes.dev](https://mynodes.dev) · 📫 izatullaili42@gmail.com
