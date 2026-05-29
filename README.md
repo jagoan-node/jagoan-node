@@ -52,7 +52,7 @@ const zaqi = {
 ### 🚀 Featured Project
 
 <a href="https://github.com/jagoan-node/tempmail">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jagoan-node&repo=tempmail&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=jagoan-node&repo=tempmail&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </a>
 
 > 📬 Self-hosted temporary email service. Live at **[mail.mynodes.dev](https://mail.mynodes.dev)**
@@ -62,8 +62,8 @@ const zaqi = {
 ### 📊 GitHub Stats
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jagoan-node&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagoan-node&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jagoan-node&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jagoan-node&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" />
 </p>
 
 <p>
